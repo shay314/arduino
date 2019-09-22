@@ -6,8 +6,8 @@
 #include <ESP8266WiFi.h>
 
 #ifndef STASSID
-#define STASSID "Hemda"
-#define STAPSK  "0507254614"
+#define STASSID ""
+#define STAPSK  ""
 #endif
 
 const char* ssid     = STASSID;
